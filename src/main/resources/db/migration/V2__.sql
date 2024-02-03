@@ -1,0 +1,2 @@
+ALTER TABLE user
+    ALTER age SET DEFAULT 0;
